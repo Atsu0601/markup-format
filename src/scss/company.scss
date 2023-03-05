@@ -1,0 +1,12 @@
+@import "foundation/_init";
+@import "layout/_init";
+
+.company {
+    font-size: 20rem;
+    text-align: center;
+
+    span {
+        font-size: 1rem;
+        text-align: center;
+    }
+}
