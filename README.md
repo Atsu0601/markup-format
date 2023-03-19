@@ -42,7 +42,7 @@ $ npm install
 ディレクトリ構造
 ※TOPとcompanyの場合の例
 
->
+<!-- mdのプレビュー用 コメントアウトを解除すると閲覧可能>
 >root/
 >　├ pages/
 >　│　└ index.html　＝　TOPページ
@@ -67,8 +67,9 @@ $ npm install
 >　  　└ index.scss　＝　TOPページのみ
 >　  　└ company.scss　＝　例）会社概要
 >　  　└ lib/
->　　 　└ swiper-bundle.min.css
+>　　 　└ swiper-bundle.min.css -->
 
+![ディレクトリ構成](decs/../docs/images/dir.png)
 <hr>
 
 ### 外部のライブラリを使用する場合
